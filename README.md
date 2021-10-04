@@ -1,6 +1,10 @@
-# 🚀 Welcome to your new awesome project!
+# MindSpaceBodyWork
 
-This project has been created using **webpack-cli**, you can now run
+MindSpaceBodyWork is an alternative healthcare provider suppling massage,yoga and meditation services to clients throughout metro atlanta. 
+
+## Requirements
+    * Contact Page with messaging system
+    * Online booking portol
 
 ```
 npm run build
