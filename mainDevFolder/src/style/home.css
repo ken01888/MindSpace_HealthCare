@@ -1,0 +1,17 @@
+p {
+    font-family: 'Nunito,sans-serif';
+    font-size: 1.25rem
+}
+
+.spanlogo {
+    font-size: 3rem;
+    font-family: 'Nunito,sans-serif';
+    font-weight: 500;
+}
+
+.newbutton:hover {
+    color: '#21aa99'
+}
+.ying{
+    content:"\21B4"
+}
